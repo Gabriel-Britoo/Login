@@ -1,0 +1,62 @@
+/* Gabriel Reis de Brito */
+
+body{
+    font-family: Verdana;
+}
+
+form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#forms{
+    margin-left: auto;
+    margin-right: auto;
+    margin-left: 30%;
+    margin-right: 30%;
+    border: 2px solid rgb(255, 255, 255);
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+
+h1{
+    text-align: center;
+}
+
+img{
+    width: 45%;
+}
+
+label{
+    margin-left: 40%;
+    margin-right: 40%;
+    margin-top: 8%;
+    font-weight: bold;
+}
+
+input{
+    width: 90%;
+    height: 70%;
+    font-size: 19px;
+}
+
+select{
+    margin-top: 6%;
+    margin-bottom: 6%;
+}
+
+a{
+    margin-bottom: 4%;
+}
+
+button{
+    font-size: 130%;
+    border: 2px solid rgb(34, 180, 70);
+    background-color: rgb(34, 180, 70);
+    color: white;
+    width: 80%;
+    height:100%;
+}
